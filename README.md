@@ -1,2 +1,2 @@
 # WePhotoPicker
-仿Android微信图片选择器
+Android图片选择器
